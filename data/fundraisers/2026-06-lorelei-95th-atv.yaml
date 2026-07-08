@@ -8,19 +8,12 @@ description: >
   for the unit in April 2026 has already helped save lives on several
   occasions; this one is more powerful and adds a trailer.
 goal: { amount: 13100, currency: EUR }
-raised: 11190
+raised: 13111
 announced: 2026-06-17
-status: active
+status: completed
 tags: [military]
 links:
   x: https://x.com/Lorelei_0502/status/2067247533122797839
 paypal: ["shulikatamara@gmail.com"]
-report: null
-last_updated: 2026-07-07
-boosts:
-  - label: "€1,150 donation match — offered by Petra"
-    details: >
-      **"Sign my drone" raffle:** every €5 donated earns one raffle ticket
-      (add "RAFFLE" to your payment note). Prize: your personal message
-      written on a $200,000+ Liutyi long-range drone before its mission.
-    image: /media/lorelei-sign-my-drone-raffle.jpg
+report: https://x.com/Lorelei_0502/status/2074782268413948407
+last_updated: 2026-07-08
